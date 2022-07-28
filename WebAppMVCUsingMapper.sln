@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppMVCUsingMapper", "WebAppMVCUsingMapper\WebAppMVCUsingMapper.csproj", "{25890034-3509-4F7C-8925-647CE537E8AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25890034-3509-4F7C-8925-647CE537E8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25890034-3509-4F7C-8925-647CE537E8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25890034-3509-4F7C-8925-647CE537E8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25890034-3509-4F7C-8925-647CE537E8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77D68C02-54D0-4BDD-894E-75F4CD653407}
+	EndGlobalSection
+EndGlobal
